@@ -28,4 +28,4 @@ Este trabalho é parte da 3ª avaliação das disciplinas Algoritmo de Estrutura
 - Algoritmos de Busca e Ordenação
 
 ## Autor
-- Brenda Souza
+- Brenda Sousa
